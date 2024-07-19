@@ -1,47 +1,50 @@
 
 # Career Goals Reflection Template
 
-### Introduction to the Template
-
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
-
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Amogelang Innocentia Mashishi
+- **Date:** 19/07/2024
+- **Current Role/Position:** Software development student
+- **Field of Interest:** Software development
 
 ### Part 1: Self-Assessment Reflection
 
-1. **Skills Analysis**:
-    
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+1. *Skills Analysis*:
+    Current skills include:
+    -Analytical skills
+    -Attention to detail
+    I developed both of these skills through my background in lab work where precision is is critical. 
+    -Communication skills
+    -Problem solving skills
+
+    *Skills that I would like to develop/improve:*
+    -Technological Problem-solving skills
+    -Time-management skills.
+
 2. **Interests and Values**:
-    
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    *Describe your key interests related to your career.*
+    -Technology and innovation:I'm passionate about exploring new technologies and their potential to solve real-life problems.
+    -Creativity and design:I'm drawn to creative fields where I can combine artistic skills with technical knowledge such as web design.
+
+    *What values are important to you in a work environment?*
+    - Collaboration: Working effectively with others to achieve common kgoals craetes a hosts a healthy working environment.
+    - Respect: An environment that values different perspectives and treating everyone with dignity.
+    -Innovation: A workplace that encourages creative ideas and implementing them.
+    -Opportunity for growth: A workplace that strives for excellence and provides opportunities for growth.
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+Industries/roles that I have researched are
+    - Healthcare Technology: Specifically roles such as medical technology developer. Developing and improving medical technologies has always been something that I am passionate about. Analyzing health data and creating innovative solutions for better patient outcomes is definately something that has left me interested.
+    - Education: Using software development knowledge to create innovative,interactive educational tools for students, developing digital learning platforms,
+    -Software development: Roles that piqued my interest are front-end development,back-end development and software testing.
+
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    Reflecting on the various industries and roles that I've researached, my background in lab work has given me strong critical and analytical skills, which align well with the biomedical field and the research industry. My passion for technology, innovation, and creativity makes the technology industry, specifically software development and testing, an exciting industry for me. Teaching and developing educational technologies capture my intersets in passing knowledge and making a positive imapct. My values of contributing positively to the world and being continually challenged are reflected in these roles.
 
 ### Part 3: SMART Career Goals
 
