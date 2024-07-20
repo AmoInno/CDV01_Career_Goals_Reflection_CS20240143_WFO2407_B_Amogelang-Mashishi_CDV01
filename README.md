@@ -50,41 +50,105 @@ Industries/roles that I have researched are
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - My goal is to secure a position as a junior software developer. This will provide me hands-on practical work experience, helping me learn new programming languages and understand the various roles available in the software development industry.This will aid me in identifying what I would like to specialise in.
+    - In 6 months, I aim to have finished my software development course at Codespace.
+    - Obtain at least 1 or 2 certifications, this will add credentials and improve my employability. 
+    -Complete at least 3 projects by end of December 2024 that I will be able to showcase on my porfolio. This will show my practical skills and initiative to potential employers.
+    - Aim to grow my networking community which will help build connections in the industry and a great way to foster collaboration and to discover latest tech trends.
+    -Participate in a hackathon. 
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - I aspire to be in healthcare technology. This field offers various opportunities to innovate and improve healtcare systems, a cause I find deeply meaningful.Working in this area would allow me to combine my technical skills with my desire to make a positive impact on people's live.
+    - Alternatively, I aspire to take on a leadership or managerial within a tech company.
+    -  I aim to get involved in the community and in mentorship programs to help the next generation of tech enthusiasts.This aligns with my passions for teaching 
+    - Learning never stops, and I commit myself to ongoing education and professional development. This might include pursuing advanced certifications or attending workshops.
+
+    Aspirations align with my skills and interests in many ways:
+    -I am a creative at heart roles that I aspire to reach nurture that creative spirit. Innovative thinking can contribute to developng new solutions for complex problems.
+    -Software development requires strong analytical skills to ensre that systems are reliable, efficient and effective.
+    -My enthusiasm for continued learning aligns with being in the tech industry because technology is ever-evolving and one needs to always be open to learning about the latest trends.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - *Secure a position as a junior software developer*
+    1.Finish the software development course at CodeSpace within 6 months.
+    2.Build a portfolio to showcase my skills through my projects.
+    3.Prepare for interviews
+    4.Regularly apply for to junior software developer positions.
+Resources/support needed:
+-Study materials,peer support,,GitHub,coding challenges,mock-interview platforms
+
+    *Complete software development course*
+    1. Set a study schedule.
+    2. Actively engage with instructors and peers.
+    3. Use the additional online resources to supplement learning.
+    4. Complete assignments and projects.
+
+Resources/support needed:
+-Online coding tutorial and courses,feedback from coaches,study group,study plnner, mental and emotional support.
+
+     *Networking and professional development*
+     1. Identify networking events such as webinars,industry conferences.
+     2. Be prepared, regualarly update my GitHub profile to showcase new skills and be prepared to always market myself.
+     3. After events, follow up onthe new contacts
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    *Pursuing software development in the healthcare industry*
+    1. I would need to accquire knowledge of healthcare systems,regulations etc.
+    -Resources would be enrolling in a healthcare IT course and learn industry jargon.Additionally get certified as a professional in healthcare information and management systems.
+    2. Learn about the relevant technologies specific to healthcare and health infomatics. 
+    3. Gain practical experience by working on healthcare-related software projects or interships.
+    4. Connect with professionals and organiszations in the healthcare technology field.
+    5. Stay informed about the latest innovations and research in the healthacre tech industry.
+
+    *Contributing to industry and community*
+    1. Improve my public speaking skills to be able to effectively share my knowledge and experiences.
+    2. Enroll in leadership and management programs so that I can cultivate my leadership skills.
+     - With this, it would be beneficial to pursue advanced certifications in the tech field.
+    3. Gain practical experience, I can do this by leading projects,taking on increasing levels of resposibility and gaining experience in various aspects of the business so that I expose myself to different business operations.
+    4. Connecting with industry professionals who can offer support and guidance.
+    5. Staying informed about industry trends,challenges and opprtunities
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+  *Potential Challenges/obstacles and strategies to oversome them*
+  -Balance studies and job search:Managing time effectively between completing the software development course and job searching can be very demanding.
+  -Strategy: Create a detailed schedule that allocates specific time blocks for studying,job applications and job interviews.
+ 
+*Challenge*
+-Gaining practical experience: Many entry-level positions require a formal education and some practical experience which can be a barrier for someone like me who does not have either
+*Strategy*
+-Engage in internships and invest heavily on my personal projects that can be showcased in my portfolio. Networking with professionals in the industry can also be a way for me to open myself to job opportunities.
+
+*Challenge*
+-Securing a job in healthcare infomatics: The transition from generalised software development to a specialized field like healthcare infomatics will require additional qualifications and experience.
+*Strategy*
+-Pursue certifications/additional courses/qualifications specific to healthcare infomatics.Target projects in the healthcare sector to gain relevant work experience.
+
+*Challenge*
+-Staying updated with industry trends can be very overwhelming. Technology is continously evolving at a rapid rate therefore one needs to be continously and quick to adapt.
+*Strategy*
+-Join professional organizations and attend conferences to stay up-to-date.Find a niche and focus on that. This narrows down the range of technological advancements to focus on.
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    *Networking*
+    -Attending industry events,webinars,seminars and conferences is a great opportunity to network. These events provide opportunities to meet people to meet people in the industry,learn about what's popular and connect with potential employers.
+    -Building an online community can help with building relationships with other professionals and staying informed with job opportunities and industry trends.
 
-### Submission
+    *Mentorship*
+    -Finding a mentor would be highly beneficial as they can provide guidance , advice and support as I try and navigate this new career path I'm on. 
+    -As I gain experience, taking on a mentorship role would be high beneficial for myself and others that are trying to navigate their own individual career paths. This will also enhance my leadership skills and expand my network which can lead to new opportunities.
+    
+    *Educational opportunities*
+    -Enroll in advanced course and certifications relevant to healthcare informatics,software testing and/or software developments.
+    -Participate in industry related events such as workdhops,hackathons and many more. This is a great way to learn,gain practical experience and network.
 
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
+    *Practical experience*
+    -Look for internship, learnership opportunities that provide work experience. These opportunities can lead to full-time employment. 
+    -Do freelance projects in order to build my portfolio and gain practical experience. Using freelance platforms can help me connect with potential clients. 
 
 
